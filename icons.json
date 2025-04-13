@@ -1,0 +1,14 @@
+{
+  "name": "图标订阅",
+  "description": "图标",
+  "icons": [
+    {
+      "name": "AUTO",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/AUTO.png"
+    },
+    {
+      "name": "Binance",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Binance.png"
+    }
+  ]
+}
