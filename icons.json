@@ -7,8 +7,48 @@
       "url": "https://raw.githubusercontent.com/Joker-II/icon/I/AUTO.png"
     },
     {
+      "name": "Azure",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Azure.png"
+    },
+        {
       "name": "Binance",
       "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Binance.png"
+    },
+        {
+      "name": "Bitcoin",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Bitcoin.png"
+    },
+        {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Google.png"
+    },
+        {
+      "name": "HongKong",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/HongKong.png"
+    },
+        {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Netflix.png"
+    },
+        {
+      "name": "Setup",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Setup.png"
+    },
+        {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Singapore.png"
+    },
+        {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Spotify.png"
+    },
+        {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/Telegram.png"
+    },
+        {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/Joker-II/icon/I/TikTok.png"
     }
   ]
 }
